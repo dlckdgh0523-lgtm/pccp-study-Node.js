@@ -61,10 +61,10 @@ chore: 폴더 구조 정리
 
 ### 10. 개인 블로그
 ```
-이창호 :
-김승철 :
-이경민 :
-하동우 :
+이창호 :https://blog.naver.com/moodie_lv3
+김승철 :https://www.notion.so/Port-Folio-2eaaf007831a804aac67c7914e72e2b9?source=copy_link
+이경민 :https://blog.naver.com/gang_0822
+하동우 :https://blog.naver.com/hadongwoo3
 ```
 ### 11. 건의 사항
 - 추가 건의사항이나 변경하고 싶은 사항이 있으면 **DM으로 말씀해주세요**.
